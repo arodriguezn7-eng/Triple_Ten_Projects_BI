@@ -1,0 +1,15 @@
+
+Tableau Story Point Captions – Customer Returns Analysis
+--------------------------------------------------------
+
+1. Slide 1 – “Where Are Returns Coming From?”
+Returns vary significantly by geography, with states like California and Texas showing high return rates. This map highlights where the Superstore is experiencing the most issues — a starting point for root cause analysis.
+
+2. Slide 2 – “When Are Returns Peaking?”
+Return rates spike notably in late Summer and following the holiday season. This seasonal pattern suggests that gift-related purchases may be a key driver of returns and should be examined more closely.
+
+3. Slide 3 – “What’s Getting Returned?”
+Certain product categories such as Chairs, Tables, and Binders are returned more frequently, especially in high-volume states. This heatmap points to the intersection of product issues and regional trends.
+
+4. Slide 4 – “Summary & Recommendations”
+Returns are driven by seasonal surges, product category weaknesses, and regional fulfillment challenges. To reduce returns, the Superstore should improve post-holiday inventory handling, review product quality in key sub-categories, and focus on high-return regions.
